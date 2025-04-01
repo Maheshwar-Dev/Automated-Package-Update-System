@@ -43,9 +43,7 @@ The Automated Package Update and Health Check System is designed to simplify the
 - **Automation via Cron Job:** The script is scheduled to run periodically, ensuring the system remains updated and monitored without manual intervention.
 
 
-
-
-**Contributors**
+## Contributors
 - Maheshwar Singh (23BCS11580)
 - Manthan Sharma (23BCS11533)
 - Harsh Jha (23BCS12103)
