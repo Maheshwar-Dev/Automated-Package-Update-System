@@ -1,10 +1,10 @@
-**Automated Package Update and Health Check System**
+# Automated Package Update and Health Check System
 
-**Introduction:** 
+## Introduction: 
 
 The Automated Package Update and Health Check System is designed to simplify the maintenance of Linux-based systems. It ensures that all installed packages remain up to date, while also monitoring critical system parameters such as disk space and memory usage. By automating these tasks, the script enhances system security, stability, and performance with minimal user intervention.
 
-**Key Features:**
+## Key Features:
 
 - **Automated Package Updates:** Checks for and installs available updates using system package managers (apt, dnf, yum).
 
@@ -17,7 +17,7 @@ The Automated Package Update and Health Check System is designed to simplify the
 - **Scheduled Execution:** Uses crontab to run periodically without manual intervention.
 
 
-**Modules Required:**
+## Modules Required:
 
 - **Package Manager Commands:** apt, dnf, yum (depending on the distribution).
 
@@ -30,7 +30,7 @@ The Automated Package Update and Health Check System is designed to simplify the
 - **Cron Job Scheduler:** crontab for automating script execution.
 
 
-**Working:**
+## Working:
 
 - **Script Execution:** The script starts by logging the date and time of execution.
 
