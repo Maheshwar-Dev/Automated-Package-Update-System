@@ -1,7 +1,5 @@
 # Automated Package Update and Health Check System
 
-## Introduction: 
-
 The Automated Package Update and Health Check System is designed to simplify the maintenance of Linux-based systems. It ensures that all installed packages remain up to date, while also monitoring critical system parameters such as disk space and memory usage. By automating these tasks, the script enhances system security, stability, and performance with minimal user intervention.
 
 ## Key Features:
