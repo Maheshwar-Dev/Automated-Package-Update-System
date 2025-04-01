@@ -1,6 +1,7 @@
 **Automated Package Update and Health Check System**
 
 **Introduction:** 
+
 The Automated Package Update and Health Check System is designed to simplify the maintenance of Linux-based systems. It ensures that all installed packages remain up to date, while also monitoring critical system parameters such as disk space and memory usage. By automating these tasks, the script enhances system security, stability, and performance with minimal user intervention.
 
 **Key Features:**
@@ -29,7 +30,7 @@ The Automated Package Update and Health Check System is designed to simplify the
 5. **Cron Job Scheduler:** crontab for automating script execution.
 
 
-**How It Works:**
+**Working:**
 
 1. **Script Execution:** The script starts by logging the date and time of execution.
 
@@ -46,4 +47,7 @@ The Automated Package Update and Health Check System is designed to simplify the
 
 
 
-This project helps system administrators maintain Linux servers efficiently by reducing manual work and improving security through timely updates and proactive monitoring.
+**Contributors**
+- Maheshwar Singh (23BCS11580)
+- Manthan Sharma (23BCS11533)
+- Harsh Jha (23BCS12103)
